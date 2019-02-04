@@ -1,0 +1,78 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\obj\Debug\E Receptionist.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\bin\Debug\E Receptionist.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\obj\Debug\E Receptionist.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form3.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form4.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Welcome.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.last.resources
+K:\New folder\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+K:\New folder\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+K:\New folder\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+K:\New folder\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe
+K:\New folder\E Receptionist\E Receptionist\bin\Debug\E Receptionist.pdb
+K:\New folder\E Receptionist\E Receptionist\obj\Debug\E Receptionist.csprojResolveAssemblyReference.cache
+K:\New folder\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form1.resources
+K:\New folder\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form2.resources
+K:\New folder\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form3.resources
+K:\New folder\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form4.resources
+K:\New folder\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.last.resources
+K:\New folder\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Properties.Resources.resources
+K:\New folder\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Welcome.resources
+K:\New folder\E Receptionist\E Receptionist\obj\Debug\E Receptionist.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+C:\Users\User\Desktop\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe
+C:\Users\User\Desktop\E Receptionist\E Receptionist\bin\Debug\E Receptionist.pdb
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E Receptionist.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form1.resources
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form2.resources
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form3.resources
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form4.resources
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.last.resources
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Properties.Resources.resources
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Welcome.resources
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E Receptionist.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin_Login.resources
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.self_study.resources
+C:\Users\User\Desktop\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.AddQuestion.resources
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\bin\Debug\E Receptionist.pdb
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.csprojResolveAssemblyReference.cache
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.AddQuestion.resources
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin_Login.resources
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form4.resources
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.last.resources
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Properties.Resources.resources
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.self_study.resources
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Welcome.resources
+F:\1 Goal Projects\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.csproj.GenerateResource.Cache
+E:\1 GOAL PROJECTS\E-Receptionist\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+E:\1 GOAL PROJECTS\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+E:\1 GOAL PROJECTS\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+G:\E-Receptionist\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+G:\E-Receptionist\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe
+G:\E-Receptionist\E Receptionist\E Receptionist\bin\Debug\E Receptionist.pdb
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.csprojResolveAssemblyReference.cache
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.AddQuestion.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin_Login.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form4.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.last.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Properties.Resources.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.self_study.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Welcome.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.csproj.GenerateResource.Cache
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.ApplyBook.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form1.resources

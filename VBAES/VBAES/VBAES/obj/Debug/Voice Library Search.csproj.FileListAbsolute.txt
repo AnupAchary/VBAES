@@ -1,0 +1,137 @@
+G:\E-Receptionist\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+G:\E-Receptionist\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe
+G:\E-Receptionist\E Receptionist\E Receptionist\bin\Debug\E Receptionist.pdb
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csprojResolveAssemblyReference.cache
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.AddQuestion.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin_Login.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.ApplyBook.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form1.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form4.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.last.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Properties.Resources.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.self_study.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Welcome.resources
+G:\E-Receptionist\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csproj.GenerateResource.Cache
+F:\2017 backup bca\Library\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+F:\2017 backup bca\Library\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+F:\2017 backup bca\Library\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+E:\New folder (2)\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+E:\New folder (2)\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe
+E:\New folder (2)\E Receptionist\E Receptionist\bin\Debug\E Receptionist.pdb
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.AddQuestion.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin_Login.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form1.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form4.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.last.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Properties.Resources.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.self_study.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Welcome.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csproj.GenerateResource.Cache
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Signin.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csprojResolveAssemblyReference.cache
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.temp.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Help.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.LibData.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Gen.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Test.resources
+E:\New folder (2)\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.eq.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csprojResolveAssemblyReference.cache
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.AddQuestion.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin_Login.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.eq.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form1.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form4.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Gen.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Help.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.last.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.LibData.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Properties.Resources.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.self_study.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Signin.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.temp.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Test.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Welcome.resources
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csproj.GenerateResource.Cache
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe
+E:\2016-2017\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.pdb
+G:\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+G:\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe
+G:\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.pdb
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csprojResolveAssemblyReference.cache
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.AddQuestion.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin_Login.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.eq.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form1.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form4.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Gen.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Help.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.last.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.LibData.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Properties.Resources.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.self_study.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Signin.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.temp.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Test.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Welcome.resources
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csproj.GenerateResource.Cache
+G:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form2.resources
+E:\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+E:\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe
+E:\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.pdb
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csprojResolveAssemblyReference.cache
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.AddQuestion.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin_Login.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.eq.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form1.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form2.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form4.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Gen.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Help.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.last.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.LibData.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Properties.Resources.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.self_study.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Signin.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.temp.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Test.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Welcome.resources
+E:\VBAES\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csproj.GenerateResource.Cache
+F:\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe.config
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E Receptionist.exe
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E Receptionist.pdb
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csprojResolveAssemblyReference.cache
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.AddQuestion.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin_Login.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Admin.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.eq.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form1.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form2.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Form4.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Gen.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Help.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.last.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.LibData.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Properties.Resources.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.self_study.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Signin.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.temp.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Test.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\E_Receptionist.Welcome.resources
+F:\VBAES\E Receptionist\E Receptionist\obj\Debug\Voice Library Search.csproj.GenerateResource.Cache
+F:\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.exe
+F:\VBAES\E Receptionist\E Receptionist\bin\Debug\E Receptionist.pdb

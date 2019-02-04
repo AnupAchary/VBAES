@@ -1,0 +1,235 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Speech;
+using System.Speech.Recognition;
+using System.Speech.Synthesis;
+using System.Threading;
+using System.Data.Sql;
+using System.Data.SqlClient;
+
+namespace E_Receptionist
+{
+    public partial class Form1 : Form
+    {
+        DataManager objdm = new DataManager();
+        public Form1()
+        {
+            InitializeComponent();
+        }
+        SpeechSynthesizer sSynth = new SpeechSynthesizer();
+        PromptBuilder pBuilder = new PromptBuilder();
+        //SpeechRecognitionEngine sRecognize = new SpeechRecognitionEngine();
+        public Boolean RecognizerState = true;
+        public Thread RecThread;
+        SqlConnection con = new SqlConnection("Data Source=GOAL-PC\\SQLEXPRESS;Initial Catalog =E-Reception;Trusted_Connection=true;");
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //sRecognize.RecognizeAsync(RecognizeMode.Multiple);
+            SpeechRecognitionEngine recognizer = new SpeechRecognitionEngine();
+            Grammar dictationGrammar = new DictationGrammar();
+            recognizer.LoadGrammar(dictationGrammar);
+            try
+            {
+                button1.Text = "Speak Now";
+                recognizer.SetInputToDefaultAudioDevice();
+                RecognitionResult result = recognizer.Recognize();
+                textBox1.Text = result.Text;
+
+                con.Open();
+                SqlDataAdapter da = new SqlDataAdapter();
+                DataSet ds = new DataSet();
+
+                SqlCommand cmd = new SqlCommand("Select * from ques_ans where question='" + textBox1.Text + "'", con);
+                da.Fill(ds);
+                int n = ds.Tables[0].Rows.Count;
+                for (int count = 0; count < n; count++)
+                {
+                    string str = " " + textBox1.Text;
+                    string i = ds.Tables[0].Rows[count]["question"].ToString();
+
+                    if (str.ToLower().Contains(i.ToLower()))
+                    {
+                        //  Response.Write("String found");
+                        string answer = "select Answer from ques_ans where question='" + i + "'";
+                        DataSet objdss = objdm.GetDataSet(answer);
+                        if (objdss.Tables[0].Rows.Count > 0)
+                        {
+                            textBox1.Text = objdss.Tables[0].Rows[0]["Answer"].ToString();
+                            pBuilder.AppendText(textBox1.Text);
+                            sSynth.Speak(pBuilder);
+                        }
+                        else
+                        {
+                            sSynth.Speak(" I am sorry that am not able to answer your question");
+
+                        }
+                    }
+                }
+                //recognizer.Recognize(RecognizeMode.Multiple);
+            }
+            catch (InvalidOperationException exception)
+            {
+                textBox1.Text = String.Format("Could not recognize input from default aduio device. Is a microphone or sound card available?\r\n{0} - {1}.", exception.Source, exception.Message);
+            }
+            finally
+            {
+                recognizer.UnloadAllGrammars();
+            }       
+            
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+             
+
+
+            
+            //gramer = new Grammar(build);
+
+            //In here we initialize the recognizer and setup its events:
+
+            
+           /* sRecognize = new SpeechRecognitionEngine();
+            //sRecognize.LoadGrammar(gramer);
+            sRecognize.SetInputToDefaultAudioDevice();
+            sRecognize.RecognizeAsync();
+            Grammar g = MyGrammar();
+            sRecognize.SpeechRecognized += sRecognize_SpeechRecognized;
+
+            //Here will initialize the recognizer thread:
+
+
+            RecThread = new Thread(new ThreadStart(RecThreadFunction));
+            RecThread.Start();
+            sRecognize.SpeechRecognized += sRecognize_SpeechRecognized;
+            /*Choices commands = new Choices();
+            commands.Add(new string[] { textBox1.Text});
+            GrammarBuilder gbuild = new GrammarBuilder();
+            gbuild.Append(commands);
+            Grammar gramer = new Grammar(gbuild);
+            sRecognize.LoadGrammarAsync(gramer);
+            sRecognize.SetInputToDefaultAudioDevice();
+           */
+
+
+        }
+       static Grammar MyGrammar()
+        {
+           String[] programs=new String[]{"Hospital","Doctor","  medicals","ATM","Operation Theater"};
+           String[] action= new String[]{"Where is the","is the"};
+           GrammarBuilder gb=new GrammarBuilder(new Choices(action));
+           gb.Append(new Choices(programs));
+           Grammar g=new Grammar(gb);
+           return g;
+
+        }
+        void sRecognize_SpeechRecognized(object sender, SpeechRecognizedEventArgs e)
+        {
+            
+            MessageBox.Show(e.Result.Text);
+            /*SqlConnection con = new SqlConnection("Data Source=GOAL-PC\\SQLEXPRESS;Initial Catalog =E-Reception;Trusted_Connection=true;");
+            con.Open();
+            SqlDataAdapter da = new SqlDataAdapter();
+            DataSet ds = new DataSet();
+            
+            SqlCommand cmd = new SqlCommand("Select * from ques_ans where question='" + textBox1.Text + "'", con);
+            /*SqlDataReader read = cmd.ExecuteReader();
+            if(read.Read())
+            {
+                textBox1.Text = read.GetValue(1).ToString();
+                pBuilder.AppendText(textBox1.Text);
+                sSynth.Speak(pBuilder);
+            }
+            else*/
+            /*da.Fill(ds);
+            int n = ds.Tables[0].Rows.Count;
+            for (int count = 0; count < n; count++)
+            {
+                string str = " " + textBox1.Text;
+                string i = ds.Tables[0].Rows[count]["question"].ToString();
+
+                if (str.ToLower().Contains(i.ToLower()))
+                {
+                    //  Response.Write("String found");
+                    string answer = "select Answer from ques_ans where question='" + i + "'";
+                    DataSet objdss = objdm.GetDataSet(answer);
+                    if (objdss.Tables[0].Rows.Count > 0)
+                    {
+                        textBox1.Text = objdss.Tables[0].Rows[0]["Answer"].ToString();
+                        pBuilder.AppendText(textBox1.Text);
+                        sSynth.Speak(pBuilder);
+                    }
+                    else
+                    {
+                        sSynth.Speak(" I am sorry that am not able to answer your question");
+
+                    }
+                }
+            }
+            if (!RecognizerState)
+                return;
+
+            this.Invoke((MethodInvoker)delegate
+            {
+
+
+                textBox1.Text += (" " + e.Result.Text.ToLower());
+                //This will add a space between each word you say
+            });
+            */
+
+        }
+        /*public void RecThreadFunction()
+        {
+            //This is on separate threads. Will loop the recognizer when receiving calls
+
+            while (true)
+            {
+                try
+                {
+                    sRecognize.Recognize();
+
+                }
+                catch
+                {
+                    //Handles errors
+                    //Won't hear you, nothing will happen
+                }
+            }
+        }*/
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            RecognizerState = false;
+
+        }
+
+        /* private void button3_Click(object sender, EventArgs e)
+         {
+             SqlConnection con = new SqlConnection("Data Source=GOAL-PC\\SQLEXPRESS;Initial Catalog =E-Reception;Trusted_Connection=true;");
+             con.Open();
+           
+           
+                string sql = "Select * from ques_ans where question='" +textBox1.Text +"'";
+
+                SqlCommand cmd = new SqlCommand(sql, con);
+                SqlDataReader read = cmd.ExecuteReader();
+                while (read.Read())
+                {
+                    textBox1.Text = read.GetValue(1).ToString();
+                    pBuilder.AppendText(textBox1.Text);
+                    sSynth.Speak(pBuilder);
+                }
+            }
+         }*/
+    }
+}
